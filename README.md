@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
-Progetto di fine corso. Realizzazione di CRM Aziendale. Installazione di bootstrap(npm i bootstrap)CREDENZIALI PER LOGIN: -username: admin; -password: 111111.
+Progetto di fine corso. Realizzazione di CRM Aziendale. Installazione di bootstrap(npm i bootstrap senza ng bootstrap)CREDENZIALI PER LOGIN: -username: admin; -password: 111111.
 Progetto aggiornato con paginazione fatture. Nei prossimi giorni aggiornero' ulteriormente il progetto
 
 ## Development server
